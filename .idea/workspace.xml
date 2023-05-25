@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8dc9de8-bd31-4111-8e5a-94be04271ac5" name="Changes" comment="" />
+    <list default="true" id="e8dc9de8-bd31-4111-8e5a-94be04271ac5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AddressBook/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressBook/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressBook/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressBook/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressBook/AddressBook.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressBook/src/AddressBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressBook/src/Contact.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Q9svXabDRutB6pviHEvDvxLik6" />
   <component name="ProjectViewState">
@@ -14,6 +25,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Tanmay Singhal/Documents/GitHub/JavaProjects",
@@ -29,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684777363420</updated>
       <workItem from="1684777364307" duration="36000" />
+      <workItem from="1685056797935" duration="75000" />
     </task>
     <servers />
   </component>
